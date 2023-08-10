@@ -1,0 +1,22 @@
+[
+{"parquet_files": ["https://storage.googleapis.com/dosm-public-pricecatcher/pricecatcher_2023-07.parquet"]},
+{"parquet_files": ["https://storage.googleapis.com/dosm-public-pricecatcher/pricecatcher_2023-06.parquet"]},
+{"parquet_files": ["https://storage.googleapis.com/dosm-public-pricecatcher/pricecatcher_2023-03.parquet"]},
+{"parquet_files": ["https://storage.googleapis.com/dosm-public-pricecatcher/pricecatcher_2023-08.parquet"]},
+{"parquet_files": ["https://storage.googleapis.com/dosm-public-pricecatcher/pricecatcher_2022-12.parquet"]},
+{"parquet_files": ["https://storage.googleapis.com/dosm-public-pricecatcher/pricecatcher_2022-11.parquet"]},
+{"parquet_files": ["https://storage.googleapis.com/dosm-public-pricecatcher/pricecatcher_2022-10.parquet"]},
+{"parquet_files": ["https://storage.googleapis.com/dosm-public-pricecatcher/pricecatcher_2022-09.parquet"]},
+{"parquet_files": ["https://storage.googleapis.com/dosm-public-pricecatcher/pricecatcher_2022-08.parquet"]},
+{"parquet_files": ["https://storage.googleapis.com/dosm-public-pricecatcher/pricecatcher_2022-05.parquet"]},
+{"parquet_files": ["https://storage.googleapis.com/dosm-public-pricecatcher/pricecatcher_2022-07.parquet"]},
+{"parquet_files": ["https://storage.googleapis.com/dosm-public-pricecatcher/pricecatcher_2022-03.parquet"]},
+{"parquet_files": ["https://storage.googleapis.com/dosm-public-pricecatcher/pricecatcher_2022-04.parquet"]},
+{"parquet_files": ["https://storage.googleapis.com/dosm-public-pricecatcher/pricecatcher_2022-02.parquet"]},
+{"parquet_files": ["https://storage.googleapis.com/dosm-public-pricecatcher/pricecatcher_2022-06.parquet"]},
+{"parquet_files": ["https://storage.googleapis.com/dosm-public-pricecatcher/pricecatcher_2022-01.parquet"]},
+{"parquet_files": ["https://storage.googleapis.com/dosm-public-pricecatcher/pricecatcher_2023-04.parquet"]},
+{"parquet_files": ["https://storage.googleapis.com/dosm-public-pricecatcher/pricecatcher_2023-05.parquet"]},
+{"parquet_files": ["https://storage.googleapis.com/dosm-public-pricecatcher/pricecatcher_2023-01.parquet"]},
+{"parquet_files": ["https://storage.googleapis.com/dosm-public-pricecatcher/pricecatcher_2023-02.parquet"]}
+]

@@ -17,9 +17,13 @@ The analysis is based on meticulously curated data from reliable sources, ensuri
 ## Directory Structure
 
 Here's a quick overview of the project structure:
+
 ├── data/ # MyInflasi/pricecathcer
+
 ├── notebooks/ # analyser.ipynb
+
 ├── visualizations/ # Visualizations generated during the analysis
+
 └── README.md # Project overview and documentation. This is the current file that you are in!
 
 # Getting Started

@@ -38,14 +38,6 @@ To explore the project, follow these steps:
 
 For more comprehensive insights, a report will be available.
 
-## Connect with Me
-
-I'm excited to share this project with you! Let's connect and discuss:
-
-- LinkedIn:[(https://www.linkedin.com/in/camelia-ariana/)](https://www.linkedin.com/in/camelia-ariana/)]
-
-Your feedback and collaboration are greatly appreciated!
-
 
 ## REQUIRED DEPENDENCIES
 - pandas
